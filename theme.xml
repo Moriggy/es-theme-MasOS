@@ -27,8 +27,9 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 		<image name="background2" extra="true">
 		
 			<path>./_art/consolas/${system.theme}.png</path>
-			<size>0.4 0.5</size>
-			<pos>0.095 0.15</pos>
+			<origin>0 0</origin>
+			<size>0.275 0.4</size>
+			<pos>0.18 0.30</pos>
 			
 		</image>
 		
@@ -106,9 +107,9 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 		
 		<image name="logo2" extra="true">
 		
-			<path>./_art/logos2/${system.theme}.png</path>
+			<path>./_art/logos2/${system.theme}.svg</path>
 			<pos>0.05 0.020</pos>
-			<size>0.35 0.10</size>
+			<maxSize>0.35 0.10</maxSize>
 			<zIndex>77</zIndex>
 			
 		</image>
@@ -151,7 +152,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 			<fontPath>./_art/Benguiat Bold.ttf</fontPath>	
 			<forceUppercase>1</forceUppercase>
 			<pos>0.007 0.15</pos>
-			<size>0.40 0.80</size>
+			<size>0.40 0.75</size>
 			<fontSize>0.020</fontSize>
 			<lineSpacing>1.475</lineSpacing>
 			<horizontalMargin>0.015</horizontalMargin>
@@ -233,7 +234,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 			<fontPath>./_art/Benguiat Bold.ttf</fontPath>	
 			<forceUppercase>1</forceUppercase>
 			<pos>0.0075 0.15</pos>
-			<size>0.43 0.77</size>
+			<size>0.43 0.75</size>
 			<fontSize>0.020</fontSize>
 			<lineSpacing>1.475</lineSpacing>
 			<horizontalMargin>0.015</horizontalMargin>
