@@ -155,7 +155,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 
 		<image name="md_image">
 		
-			<size>0.50 0.50</size>
+			<size>0.45 0.35</size>
 			<pos>0.73 0.29</pos>
 			
 		</image>
@@ -168,7 +168,7 @@ author:			My Arcade Spain: Moriggy & Mabedeep
 
 		<image name="md_image">
 		
-			<size>0.50 0.50</size>
+			<size>0.40 0.35</size>
 			<pos>0.73 0.29</pos>
 			
 		</image>
